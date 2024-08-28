@@ -19,4 +19,4 @@ THE CART ICON DISPLAYED IN THE NAVIGATION BAR HOVERS YOU TO THE ORDERED ITEMS PA
 
 <hr>
 
-<h2>Click this <a href=" https://technodeba.github.io/MyntraCustomisedClone/" >LINK</a> to check my website.</h2>
+link:- https://technodeba.github.io/MyntraCustomisedClone/
