@@ -12,3 +12,11 @@
 <br>
 
 ![Screenshot 2024-08-28 at 10 26 21 PM](https://github.com/user-attachments/assets/12059596-e411-4b25-9fae-d66622ae7534)
+
+
+<h3>A MULTI-PAGED MYNTRA WEBSITE DESIGNED USING HTML/CSS/JAVASCRIPT.THE JAVASCRIPT ADDED THE ADD TO CART FUNCTIONALITY FEATURE TO MY WEBSITE.
+THE CART ICON DISPLAYED IN THE NAVIGATION BAR HOVERS YOU TO THE ORDERED ITEMS PAGE.</h3>
+
+<hr>
+
+<h2>Click this <a href=" https://technodeba.github.io/MyntraCustomisedClone/"> link</a> to check my website.</h2>
